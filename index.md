@@ -6,9 +6,8 @@
 
 Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
 
-[[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/fraud_detection)
-](https://github.com/Charu244/minimal/blob/master/assets/img/fraud_detection.png)
-<center><img src="images/fraud_detection.jpg"/></center>
+[[![View on GitHub](https://github.com/Charu244/minimal/blob/master/assets/img/fraud_detection.png)
+<center><img src="images/fraud_detection.png"/></center>
 
 ---
 ### Financial-Models-Numerical-Methods
@@ -29,7 +28,7 @@ The following article sections will briefly touch on LSTM neuron cells, give a t
 ---
 ### Text Classification
 
-[[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/cnn-text-classification-tf#readme)](https://github.com/Charu244/minimal/blob/master/assets/img/text_classification.png)
+[[[![View on GitHub](https://github.com/Charu244/minimal/blob/master/assets/img/text_classification.png)
 
 It is slightly simplified implementation of Kim's Convolutional Neural Networks for Sentence Classification paper in Tensorflow.
 
@@ -38,17 +37,16 @@ It is slightly simplified implementation of Kim's Convolutional Neural Networks 
 ---
 ### Awesome Machine Learning
 
-[[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/awesome-machine-learning)](https://github.com/Charu244/minimal/blob/master/assets/img/machine_learning.png)
+[[![View on GitHub](https://github.com/Charu244/minimal/blob/master/assets/img/machine_learning.png)
 
 A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by awesome-php.
 
-<center><img src="images/machine_learning.jpg"/></center>
+<center><img src="images/machine_learning.png"/></center>
 
 ---
 ### Gesture Recognizer
 
-[[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/CNNGestureRecognizer)
-](https://github.com/Charu244/minimal/blob/master/assets/img/gesture_recognition.png)
+[[![View on GitHub](https://github.com/Charu244/minimal/blob/master/assets/img/gesture_recognition.png)
 
 Gesture recognition via CNN neural network implemented in Keras + Theano + OpenCV
 
@@ -61,7 +59,7 @@ Suggestion: Better to download Anaconda as it will take care of most of the othe
 ---
 ### Human Activity Recognition
 
-[[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/LSTM-Human-Activity-Recognition)](https://github.com/Charu244/minimal/blob/master/assets/img/human_activity.png)
+[[![View on GitHub](https://github.com/Charu244/minimal/blob/master/assets/img/human_activity.png)
 
 Human Activity Recognition (HAR) using smartphones dataset and an LSTM RNN. Classifying the type of movement amongst six categories:
 
