@@ -6,7 +6,7 @@
 
 Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
 
-[[[![View on GitHub]]](https://github.com/Charu244/minimal/blob/master/assets/img/fraud_detection.PNG)
+[[[![View on GitHub]]](https://github.com/Charu244/minimal/blob/master/assets/img/fraud_detection.png)
 
 <center><img src="assets/img/fraud_detection.PNG "/></center>
 
@@ -19,7 +19,7 @@ This is just a collection of topics and algorithms that in my opinion are intere
 It contains several topics that are not so popular nowadays, but that can be very powerful. Usually, topics such as PDE methods, LÃ©vy processes, Fourier methods or Kalman filter are not very popular among practitioners, who prefers to work with more standard tools.
 The aim of these notebooks is to present these interesting topics, by showing their practical application through an interactive python implementation.
 
-[[[![View on GitHub]]](https://github.com/Charu244/minimal/blob/master/assets/img/financial_modeling.PNG)
+[[[![View on GitHub]]](https://github.com/Charu244/minimal/blob/master/assets/img/financial_modeling.png)
 
 <center><img src="assets/img/financial_modeling.PNG "/></center> 
 
@@ -32,7 +32,7 @@ The following article sections will briefly touch on LSTM neuron cells, give a t
 ---
 ### Text Classification
 
-[[[![View on GitHub]]](https://github.com/Charu244/minimal/blob/master/assets/img/text_classification.PNG)
+[[[![View on GitHub]]](https://github.com/Charu244/minimal/blob/master/assets/img/text_classification.png)
 
 It is slightly simplified implementation of Kim's Convolutional Neural Networks for Sentence Classification paper in Tensorflow.
 
@@ -41,7 +41,7 @@ It is slightly simplified implementation of Kim's Convolutional Neural Networks 
 ---
 ### Awesome Machine Learning
 
-[[[![View on GitHub]]](https://github.com/Charu244/minimal/blob/master/assets/img/machine_learning.PNG)
+[[[![View on GitHub]]](https://github.com/Charu244/minimal/blob/master/assets/img/machine_learning.png)
 
 A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by awesome-php.
 
@@ -50,7 +50,7 @@ A curated list of awesome machine learning frameworks, libraries and software (b
 ---
 ### Gesture Recognizer
 
-[[[![View on GitHub]]](https://github.com/Charu244/minimal/blob/master/assets/img/gesture_recognition.PNG)
+[[[![View on GitHub]]](https://github.com/Charu244/minimal/blob/master/assets/img/gesture_recognition.png)
 
 Gesture recognition via CNN neural network implemented in Keras + Theano + OpenCV
 
