@@ -17,7 +17,7 @@ This is just a collection of topics and algorithms that in my opinion are intere
 It contains several topics that are not so popular nowadays, but that can be very powerful. Usually, topics such as PDE methods, LÃ©vy processes, Fourier methods or Kalman filter are not very popular among practitioners, who prefers to work with more standard tools.
 The aim of these notebooks is to present these interesting topics, by showing their practical application through an interactive python implementation.
 
-<center><img src="images/financial_modeling.png"/></center>
+<!-- <center><img src="images/financial_modeling.png"/></center> -->
 
 ---
 ### LSTM Neural Network for Time Series Prediction
@@ -28,25 +28,25 @@ The following article sections will briefly touch on LSTM neuron cells, give a t
 ---
 ### Text Classification
 
-[[[![View on GitHub](https://github.com/Charu244/minimal/blob/master/assets/img/text_classification.png)
+[[[![View on GitHub]]](https://github.com/Charu244/minimal/blob/master/assets/img/text_classification.png)
 
 It is slightly simplified implementation of Kim's Convolutional Neural Networks for Sentence Classification paper in Tensorflow.
 
-<center><img src="images/text_classification.png"/></center>
+<!-- <center><img src="images/text_classification.png"/></center> -->
 
 ---
 ### Awesome Machine Learning
 
-[[![View on GitHub](https://github.com/Charu244/minimal/blob/master/assets/img/machine_learning.png)
+[[[![View on GitHub]]](https://github.com/Charu244/minimal/blob/master/assets/img/machine_learning.png)
 
 A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by awesome-php.
 
-<center><img src="images/machine_learning.png"/></center>
+<!-- <center><img src="images/machine_learning.png"/></center> -->
 
 ---
 ### Gesture Recognizer
 
-[[![View on GitHub](https://github.com/Charu244/minimal/blob/master/assets/img/gesture_recognition.png)
+[[![View on GitHub]]](https://github.com/Charu244/minimal/blob/master/assets/img/gesture_recognition.png)
 
 Gesture recognition via CNN neural network implemented in Keras + Theano + OpenCV
 
@@ -54,12 +54,12 @@ Key Requirements: Python 3.6.1 OpenCV 3.4.1 Keras 2.0.2 Tensorflow 1.2.1 Theano 
 
 Suggestion: Better to download Anaconda as it will take care of most of the other packages and easier to setup a virtual workspace to work with multiple versions of key packages like python, opencv etc.
 
-<center><img src="images/gesture_recognition.png"/></center>
+<!-- <center><img src="images/gesture_recognition.png"/></center> -->
 
 ---
 ### Human Activity Recognition
 
-[[![View on GitHub](https://github.com/Charu244/minimal/blob/master/assets/img/human_activity.png)
+[[[![View on GitHub]]](https://github.com/Charu244/minimal/blob/master/assets/img/human_activity.png)
 
 Human Activity Recognition (HAR) using smartphones dataset and an LSTM RNN. Classifying the type of movement amongst six categories:
 
@@ -73,6 +73,6 @@ Compared to a classical approach, using a Recurrent Neural Networks (RNN) with L
 
 Let's use Google's neat Deep Learning library, TensorFlow, demonstrating the usage of an LSTM, a type of Artificial Neural Network that can process sequential data / time series.
 
-<center><img src="images/human_activity.jpg"/></center>
+<!-- <center><img src="images/human_activity.jpg"/></center> -->
 
 
