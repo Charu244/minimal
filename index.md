@@ -6,7 +6,7 @@
 
 Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
 
-![View on GitHub](/Charu244/minimal/assets/img/fraud_detection.PNG)
+[[[![View on GitHub]]](https://github.com/Charu244/minimal/blob/master/assets/img/fraud_detection.PNG)
 
 <center><img src="assets/img/fraud_detection.PNG "/></center>
 
@@ -19,6 +19,8 @@ This is just a collection of topics and algorithms that in my opinion are intere
 It contains several topics that are not so popular nowadays, but that can be very powerful. Usually, topics such as PDE methods, LÃ©vy processes, Fourier methods or Kalman filter are not very popular among practitioners, who prefers to work with more standard tools.
 The aim of these notebooks is to present these interesting topics, by showing their practical application through an interactive python implementation.
 
+[[[![View on GitHub]]](https://github.com/Charu244/minimal/blob/master/assets/img/financial_modeling.PNG)
+
 <center><img src="assets/img/financial_modeling.PNG "/></center> 
 
 ---
@@ -30,7 +32,7 @@ The following article sections will briefly touch on LSTM neuron cells, give a t
 ---
 ### Text Classification
 
-![View on GitHub](/Charu244/minimal/assets/img/text_classification.PNG)
+[[[![View on GitHub]]](https://github.com/Charu244/minimal/blob/master/assets/img/text_classification.PNG)
 
 It is slightly simplified implementation of Kim's Convolutional Neural Networks for Sentence Classification paper in Tensorflow.
 
@@ -39,7 +41,7 @@ It is slightly simplified implementation of Kim's Convolutional Neural Networks 
 ---
 ### Awesome Machine Learning
 
-![View on GitHub](/Charu244/minimal/assets/img/machine_learning.PNG)
+[[[![View on GitHub]]](https://github.com/Charu244/minimal/blob/master/assets/img/machine_learning.PNG)
 
 A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by awesome-php.
 
@@ -48,7 +50,7 @@ A curated list of awesome machine learning frameworks, libraries and software (b
 ---
 ### Gesture Recognizer
 
-![View on GitHub](/Charu244/minimal/assets/img/gesture_recognition.PNG)
+[[[![View on GitHub]]](https://github.com/Charu244/minimal/blob/master/assets/img/gesture_recognition.PNG)
 
 Gesture recognition via CNN neural network implemented in Keras + Theano + OpenCV
 
@@ -74,8 +76,6 @@ LAYING.
 Compared to a classical approach, using a Recurrent Neural Networks (RNN) with Long Short-Term Memory cells (LSTMs) require no or almost no feature engineering. Data can be fed directly into the neural network who acts like a black box, modeling the problem correctly. Other research on the activity recognition dataset can use a big amount of feature engineering, which is rather a signal processing approach combined with classical data science techniques. The approach here is rather very simple in terms of how much was the data preprocessed.
 
 Let's use Google's neat Deep Learning library, TensorFlow, demonstrating the usage of an LSTM, a type of Artificial Neural Network that can process sequential data / time series.
-
-![View on GitHub](/Charu244/minimal/assets/img/human_activity.PNG)
 
 <center><img src="assets/img/human_activity.PNG "/></center> 
 
