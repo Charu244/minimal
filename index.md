@@ -4,9 +4,13 @@
 
 ### Fraud Detection
 
-Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
+Fraud detection is a set of activities undertaken to prevent money or property from being obtained through false pretenses.
 
-[[[![View on GitHub]]](https://github.com/Charu244/minimal/blob/master/assets/img/fraud_detection.png)
+Fraud detection is applied to many industries such as banking or insurance. In banking, fraud may include forging checks or using stolen credit cards. Other forms of fraud may involve exaggerating losses or causing an accident with the sole intent for the payout.
+
+With an unlimited and rising number of ways someone can commit fraud, detection can be difficult. Activities such as reorganization, downsizing, moving to new information systems or encountering a cybersecurity breach could weaken an organization's ability to detect fraud. Techniques such as real-time monitoring for fraud is recommended. Organizations should look for fraud in financial transactions, locations, devices used, initiated sessions and authentication systems.
+
+[[![View on GitHub]](https://github.com/Charu244/minimal/blob/master/assets/img/fraud_detection.png)
 
 <center><img src="assets/img/fraud_detection.PNG "/></center>
 
@@ -14,10 +18,7 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 ---
 ### Financial-Models-Numerical-Methods
 
-This is just a collection of topics and algorithms that in my opinion are interesting.
-
-It contains several topics that are not so popular nowadays, but that can be very powerful. Usually, topics such as PDE methods, LÃ©vy processes, Fourier methods or Kalman filter are not very popular among practitioners, who prefers to work with more standard tools.
-The aim of these notebooks is to present these interesting topics, by showing their practical application through an interactive python implementation.
+Financial modeling is the process of creating a summary of a company's expenses and earnings in the form of a spreadsheet that can be used to calculate the impact of a future event or decision.
 
 [[[![View on GitHub]]](https://github.com/Charu244/minimal/blob/master/assets/img/financial_modeling.png)
 
