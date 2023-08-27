@@ -1,6 +1,16 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Charu Tewari </p>
+logo: /assets/img/dp.jpg
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/charu-tewari-2282511b3/">LinkedIn</a> |
+  <a href="https://github.com/Charu244">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Machine learning & NLP related problems.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
