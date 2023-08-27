@@ -7,7 +7,8 @@
 Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
 
 [[[![View on GitHub]]](https://github.com/Charu244/minimal/blob/master/assets/img/fraud_detection.png)
-<center><img src="images/fraud_detection.png"/></center>
+
+<center><img src="assets/img/fraud_detection.png"/></center>
 
 ---
 ### Financial-Models-Numerical-Methods
